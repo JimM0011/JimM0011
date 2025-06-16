@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my [Homepage](https://jimm0011.github.io/)!
+Welcome to my [Homepage](https://jimm0011.github.io/) !
 
 I am a Master's student at the School of Artificial Intelligence and Automation (AIA), 
 Huazhong University of Science and Technology (HUST), 
