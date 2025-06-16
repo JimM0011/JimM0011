@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my [Homepage](https://jimm0011.github.io/)!
+
+I am a Master's student at the School of Artificial Intelligence and Automation (AIA), 
+Huazhong University of Science and Technology (HUST), 
+advised by Prof. [Xiang Xiang](https://eglxiang.github.io/).
+My research interests lie primarily in machine learning and computer vision, specifically including:
+
+- Test (Inference) - Time &nbsp;&nbsp; Learning / Adaptation / Training / Computing
+- Black-Box / Cloud-to-Edge &nbsp;&nbsp; Knowledge Distillation
+- Image / Font &nbsp;&nbsp; Generation / Style Transfer
+- Few-Shot / Hierarchical &nbsp;&nbsp; Incremental Learning
+
 ![JimM0011's Github stats](https://github-readme-stats.vercel.app/api?username=JimM0011&show_icons=true&theme=transparent)
