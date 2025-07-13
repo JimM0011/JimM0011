@@ -27,4 +27,6 @@ My research interests lie primarily in Machine Learning and Computer Vision, spe
 - Image / Font &nbsp;&nbsp; Generation / Style Transfer
 - Few-Shot / Hierarchical &nbsp;&nbsp; Incremental / Continual / Lifelong Learning
 
+Feel free to contact me by email at: jingma0011@gmail.com
+
 <!--![JimM0011's Github stats](https://github-readme-stats.vercel.app/api?username=JimM0011&show_icons=true&theme=transparent)-->
